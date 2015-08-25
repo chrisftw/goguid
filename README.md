@@ -11,7 +11,7 @@ Goguid is simple to install.
 Goguid is simple to use.
 
 
-        import ( "chrisftw/goguid" )
+        import ( "github.com/chrisftw/goguid" )
         
         myUuid := goguid.GenV4()
 
